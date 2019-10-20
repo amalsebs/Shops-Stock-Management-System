@@ -1,2 +1,2 @@
-# UG-S1-Project-using-Python
+# BTech-S1-Project-using-Python
 
